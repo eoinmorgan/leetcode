@@ -1,4 +1,4 @@
-from monoqueue import Monoqueue
+from sliding_window_maxes.monoqueue import Monoqueue
 
 def window_maxes(nums, window_size):
     if len(nums) == 0:

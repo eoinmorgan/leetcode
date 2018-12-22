@@ -1,5 +1,5 @@
 import unittest
-from window_maxes import window_maxes
+from sliding_window_maxes.window_maxes import window_maxes
 
 class Test_window_maxes(unittest.TestCase):
     def test_simple(self):

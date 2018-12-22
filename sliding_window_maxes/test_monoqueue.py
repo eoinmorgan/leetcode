@@ -1,5 +1,5 @@
 import unittest
-from monoqueue import Monoqueue
+from sliding_window_maxes.monoqueue import Monoqueue
 
 class Test_Monoqueue(unittest.TestCase):
     def setUp(self):
